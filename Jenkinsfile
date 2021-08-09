@@ -1,4 +1,5 @@
 #!groovy
+import java.net.MalformedURLException;
 import groovy.json.JsonSlurperClassic
 node {
 
